@@ -1,0 +1,56 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=railcom
+# Date=21:42:33
+# CreatedBy=Fritzing 1.0.1rc.2023-09-04.CD-1653-0-8d480a18
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+R15,"220;;;;;0.25W;;;","THT",1054,1177.2,0,Top,THT
+R16,"220;;;;;0.25W;;;","THT",1054,1277.2,0,Top,THT
+R8,"220;;;;;0.25W;;;","THT",1854,1477.2,0,Top,THT
+6N137,";;;;;;;;","DIP (Dual Inline) [THT]",1204,1627.2,180,Top,THT
+R5,"220;;;;;0.25W;;;","THT",2954,1477.2,0,Top,THT
+R10,"220;;;;;0.25W;;;","THT",2354,1377.2,-90,Top,THT
+R9,"220;;;;;0.25W;;;","THT",1854,1677.2,0,Top,THT
+R4,"220;;;;;0.25W;;;","THT",2654,1377.2,-90,Top,THT
+R3,"220;;;;;0.25W;;;","THT",2554,477.205,0,Top,THT
+LED3,";;;;0.030A;;;;","3 mm [THT]",1481.21,1177.2,90,Top,THT
+D5,";;;;;;;10;","diode-1n4001",3354,777.205,90,Top,SMT
+D4,";;;;;;;5;","diode-1n4001",3054,777.205,-90,Top,SMT
+R2,"220;;;;;0.25W;;;","THT",2254,1477.2,-90,Top,THT
+C1,";;;;;;;;","cpol-radial-100uf-25v",1554,2127.21,-90,Top,SMT
+Via2,";;;;;;;;","",2353.36,1478.64,0,Top,MANUAL
+R6,"220;;;;;0.25W;;;","THT",2954,1177.2,0,Top,THT
+R7,"220;;;;;0.25W;;;","THT",3654,877.205,-90,Top,THT
+C3,";100nF;;35V;;;;;","5mm [THT, pp]",2153.99,1873.73,-90,Top,THT
+Via1,";;;;;;;;","",2054,1177.21,0,Top,MANUAL
+R14,"220;;;;;0.25W;;;","THT",1054,277.205,0,Top,THT
+C8,";100nF;;35V;;;;;","5mm [THT, pp]",853.995,1673.73,-90,Top,THT
+C2,";0.1nF;;35V;;;;;","100 mil [THT, electrolytic]",2554,2027.2,90,Top,THT
+R12,"220;;;;;0.25W;;;","THT",1754,477.205,0,Top,THT
+D1,";;;;;;;;","300 mil [THT]",3105,2177.2,0,Top,THT
+LM339N,";;;;;;;;","DIP14 [THT]",2454,827.205,-90,Top,THT
+R13,"220;;;;;0.25W;;;","THT",1754,377.205,0,Top,THT
+7402N,";;;;;;;;","DIP14 [THT]",1254,827.205,-90,Top,THT
+J21,";;;;;;;;","THT",314,772.205,180,Top,THT
+C6,";100nF;;35V;;;;;","5mm [THT, pp]",958.328,477.199,0,Top,THT
+R1,"220;;;;;0.25W;;;","THT",2554,1577.2,-90,Top,THT
+J20,";;;;;;;;","THT",3594,1782.2,0,Top,THT
+D3,";;;;;;;;","300 mil [THT]",3005,1677.2,180,Top,THT
+C7,";100nF;;35V;;;;;","5mm [THT, pp]",1753.99,873.733,-90,Top,THT
+78L05Z,";;;;;;;;","to-92",2005,2154.77,180,Top,THT
+J19,";;;;;;;;","THT",314,1672.2,180,Top,THT
+R17,"220;;;;;0.25W;;;","THT",654,1477.2,-90,Top,THT
+C9,";100nF;;35V;;;;;","5mm [THT, pp]",753.995,873.733,-90,Top,THT
+R11,"220;;;;;0.25W;;;","THT",1954,1277.2,0,Top,THT
+C4,";0.1nF;;35V;;;;;","100 mil [THT, electrolytic]",1154,2027.2,-90,Top,THT
+D2,";;;;;;;;","300 mil [THT]",3103,1977.2,180,Top,THT
